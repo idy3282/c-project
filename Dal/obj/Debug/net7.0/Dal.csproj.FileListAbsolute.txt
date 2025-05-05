@@ -74,3 +74,20 @@ D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\Dal
 D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\Dal\obj\Debug\net7.0\Dal.pdb
 D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
 D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\Dal\obj\Debug\net7.0\ref\Dal.dll
+D:\git-C#\C--Project\Dal\bin\Debug\net7.0\Dal.deps.json
+D:\git-C#\C--Project\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+D:\git-C#\C--Project\Dal\bin\Debug\net7.0\Dal.dll
+D:\git-C#\C--Project\Dal\bin\Debug\net7.0\Dal.pdb
+D:\git-C#\C--Project\Dal\bin\Debug\net7.0\Common.dll
+D:\git-C#\C--Project\Dal\bin\Debug\net7.0\Common.pdb
+D:\git-C#\C--Project\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+D:\git-C#\C--Project\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-C#\C--Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+D:\git-C#\C--Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+D:\git-C#\C--Project\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+D:\git-C#\C--Project\Dal\obj\Debug\net7.0\Dal.csproj.CopyComplete
+D:\git-C#\C--Project\Dal\obj\Debug\net7.0\Dal.dll
+D:\git-C#\C--Project\Dal\obj\Debug\net7.0\refint\Dal.dll
+D:\git-C#\C--Project\Dal\obj\Debug\net7.0\Dal.pdb
+D:\git-C#\C--Project\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+D:\git-C#\C--Project\Dal\obj\Debug\net7.0\ref\Dal.dll

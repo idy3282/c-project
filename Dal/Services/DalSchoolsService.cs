@@ -35,15 +35,24 @@ namespace Dal.Services
             try
             {
                 data.Schools.Add(school);
-                data.SaveChanges();
+                try
+                {
+
+                    data.SaveChanges();
+                }
+                catch (Exception ex)
+                {
+                    data.Schools.Local.Remove(school);
+                    return false;
+                }
+
                 return true;
             }
             catch (Exception ex)
             {
-                throw new Exception("school didn't create");
+                throw new Exception("school not create");
             }
         }
-
 
 
         public void RemoveSchool(int sSymbol)

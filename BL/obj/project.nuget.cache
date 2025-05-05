@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tO2TemBh6ZwG7pF9BAKEm8PT4SMI5m6Bvo0KZBrtqF1znNpFJYj6FvE2YDi718mqZDP5N/n+ROVD04tN3/aB6Q==",
+  "dgSpecHash": "KVzxmqnhfQ6zcMg6NrH6FHgL7XheXgFsQ331i3/kKULtRrXApOpBMY6KP3r42Xq0f7j+j0RVMIXjefKhAEJD/Q==",
   "success": true,
-  "projectFilePath": "D:\\פרויקט -טוב ברוך ה'\\הפרויקט של איידי & שרי\\BL\\BL.csproj",
+  "projectFilePath": "D:\\git-C#\\C--Project\\BL\\BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\angular\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\angular\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
