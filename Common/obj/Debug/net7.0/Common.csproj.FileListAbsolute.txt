@@ -1,0 +1,24 @@
+D:\הפרויקט של איידי & שרי\Common\bin\Debug\net7.0\Common.deps.json
+D:\הפרויקט של איידי & שרי\Common\bin\Debug\net7.0\Common.dll
+D:\הפרויקט של איידי & שרי\Common\bin\Debug\net7.0\Common.pdb
+D:\הפרויקט של איידי & שרי\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
+D:\הפרויקט של איידי & שרי\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\הפרויקט של איידי & שרי\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+D:\הפרויקט של איידי & שרי\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+D:\הפרויקט של איידי & שרי\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+D:\הפרויקט של איידי & שרי\Common\obj\Debug\net7.0\Common.dll
+D:\הפרויקט של איידי & שרי\Common\obj\Debug\net7.0\refint\Common.dll
+D:\הפרויקט של איידי & שרי\Common\obj\Debug\net7.0\Common.pdb
+D:\הפרויקט של איידי & שרי\Common\obj\Debug\net7.0\ref\Common.dll
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\Common\bin\Debug\net7.0\Common.deps.json
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\Common\bin\Debug\net7.0\Common.dll
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\Common\bin\Debug\net7.0\Common.pdb
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\Common\obj\Debug\net7.0\Common.dll
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\Common\obj\Debug\net7.0\refint\Common.dll
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\Common\obj\Debug\net7.0\Common.pdb
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\Common\obj\Debug\net7.0\ref\Common.dll
