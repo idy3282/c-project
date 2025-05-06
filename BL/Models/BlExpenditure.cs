@@ -8,7 +8,6 @@ public class BlExpenditure
     public int Id { get; set; }
 
     public int SchoolSymbol { get; set; }
-    //public string? SchoolName { get; set; }
     public decimal ExpenditureSum { get; set; }
 
     //public int CategoryId { get; set; }
