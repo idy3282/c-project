@@ -1,0 +1,2 @@
+D:\הפרויקט של איידי & שרי\DAL\SERVER.MDF
+Microsoft SQL Server Database File (SqlClient)

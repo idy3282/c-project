@@ -1,0 +1,96 @@
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\BL.deps.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\BL.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\BL.pdb
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\refint\BL.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.pdb
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\ref\BL.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\Dal.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\Dal.pdb
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+B:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\BL.deps.json
+B:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\BL.dll
+B:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\BL.pdb
+B:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\Dal.dll
+B:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\Dal.pdb
+B:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+B:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+B:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+B:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+B:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+B:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+B:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.dll
+B:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\refint\BL.dll
+B:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.pdb
+B:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\ref\BL.dll
+H:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\BL.deps.json
+H:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\BL.dll
+H:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\BL.pdb
+H:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\Dal.dll
+H:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\Dal.pdb
+H:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+H:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+H:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+H:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+H:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+H:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+H:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.dll
+H:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\refint\BL.dll
+H:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.pdb
+H:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\Sary Wagman\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\ref\BL.dll
+D:\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+D:\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+D:\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+D:\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+D:\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.dll
+D:\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\refint\BL.dll
+D:\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.pdb
+D:\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\BL.deps.json
+D:\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\BL.dll
+D:\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\BL.pdb
+D:\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\Common.dll
+D:\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\Dal.dll
+D:\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\Common.pdb
+D:\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\Dal.pdb
+D:\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+D:\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\ref\BL.dll
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\BL.deps.json
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\BL.dll
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\BL.pdb
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\Common.dll
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\Dal.dll
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\Common.pdb
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\BL\bin\Debug\net7.0\Dal.pdb
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.dll
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\refint\BL.dll
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\BL.pdb
+D:\פרויקט -טוב ברוך ה'\הפרויקט של איידי & שרי\BL\obj\Debug\net7.0\ref\BL.dll
+D:\git-C#\C--Project\BL\bin\Debug\net7.0\BL.deps.json
+D:\git-C#\C--Project\BL\bin\Debug\net7.0\BL.dll
+D:\git-C#\C--Project\BL\bin\Debug\net7.0\BL.pdb
+D:\git-C#\C--Project\BL\bin\Debug\net7.0\Common.dll
+D:\git-C#\C--Project\BL\bin\Debug\net7.0\Dal.dll
+D:\git-C#\C--Project\BL\bin\Debug\net7.0\Common.pdb
+D:\git-C#\C--Project\BL\bin\Debug\net7.0\Dal.pdb
+D:\git-C#\C--Project\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+D:\git-C#\C--Project\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-C#\C--Project\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+D:\git-C#\C--Project\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+D:\git-C#\C--Project\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+D:\git-C#\C--Project\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+D:\git-C#\C--Project\BL\obj\Debug\net7.0\BL.dll
+D:\git-C#\C--Project\BL\obj\Debug\net7.0\refint\BL.dll
+D:\git-C#\C--Project\BL\obj\Debug\net7.0\BL.pdb
+D:\git-C#\C--Project\BL\obj\Debug\net7.0\ref\BL.dll
